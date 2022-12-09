@@ -34,4 +34,4 @@ kontakt indeholder
 
 
 Hvilke teknologier bruger du til udførslen?
-html, css, java
+html, css, javaScript
